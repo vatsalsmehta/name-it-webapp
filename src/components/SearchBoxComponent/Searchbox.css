@@ -1,0 +1,24 @@
+.Searchbox-container {
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.Searchbox-input {
+    color: white;
+    background-color: #a592f2;
+    padding: 8px 15px;
+    border-width: 0px;
+    width: 250px;
+    border-radius: 50px;
+    box-shadow: 0 0 5px white;
+}
+
+.Searchbox-input::placeholder {
+    color: white;
+}
+
+.Searchbox-input:focus {
+    outline: none;
+}

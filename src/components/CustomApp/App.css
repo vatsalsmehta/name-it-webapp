@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(140, 206, 245);
+    overflow-x: hidden;
+    /* This will prevent scrolling in right/left direction ie. x axis */
+    color: azure;
+    font-family: 'Lato', sans-serif;
+}
+
+.forbutton {
+    color: bisque;
+    background-color: bisque;
+}
